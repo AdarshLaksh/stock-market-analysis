@@ -1,4 +1,4 @@
-# Stock Market Kafka Real Time Data Engineering Project
+# Real Time Stock Market Data Engineering Project Using Kafka, Zookeeper and Python
 
 ## Introduction 
 This project is all about executing an End-To-End Data Engineering Project on Real-Time Stock Market Data using Kafka.
