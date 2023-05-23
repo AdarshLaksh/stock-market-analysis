@@ -10,16 +10,19 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 ## Technology Used
 - Programming Language - Python
-- Amazon Web Service (AWS)
+- Platform : Amazon Web Service (AWS)
 1. S3 (Simple Storage Service)
 2. Athena
 3. Glue Crawler
 4. Glue Catalog
 5. EC2
-- Apache Kafka
+6. Apache Kafka
 
 
 ## Dataset Used
-You can use any dataset, we are mainly interested in operation side of Data Engineering (building data pipeline) 
+Any dataset can be used since the major focus is on the operation side of Data Engineering (building data pipeline) 
 
 Here is the dataset used - https://github.com/AdarshLaksh/stock-market-analysis/blob/main/indexProcessed.csv
+
+## Command.txt
+The necessary commands have been provided in command.txt
